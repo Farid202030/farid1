@@ -1,0 +1,18 @@
+from graph import *
+penColor(0,0,0)
+penSize(5)
+brushColor("yellow")
+circle (240 , 200, 150)
+brushColor("red")
+circle (170 , 160, 35)
+circle (300 , 160, 20)
+brushColor("black")
+rectangle (170 , 280,300 , 300 )
+brushColor("black")
+circle (170 , 160, 15)
+circle (300 , 160, 5)
+brushColor("black")
+penSize(15)
+line(220, 130, 100, 100)
+line(120 , 70 , 50 , 50)
+
